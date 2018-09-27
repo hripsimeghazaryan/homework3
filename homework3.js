@@ -10,7 +10,7 @@ console.log(theResult);
 const loki = function(){
         return "I am alive";
 };
-console.log(Loki());
+console.log(loki());
 
 
 // Number 3
