@@ -7,7 +7,7 @@ console.log(theResult);
 
 
 // Number 2
-const Loki = function(){
+const loki = function(){
         return "I am alive";
 };
 console.log(Loki());
